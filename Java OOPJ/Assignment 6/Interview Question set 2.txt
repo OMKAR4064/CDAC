@@ -1,0 +1,35 @@
+                                               CDAC Mumbai PG-DAC MARCH 24
+
+                                                  Assignment No- 6
+
+1) What is method overloading in Java & explain with an example.?
+
+2) What are the rules for method overloading resolution in Java? How does Java determine which overloaded method to call?
+
+3) What does the static keyword mean in Java? Explain the difference between static and non-static methods.
+
+4) Can static methods be overloaded and overridden in Java?How are static variables shared across multiple instances of a class?
+
+5) What is  the role of the static keyword in the context of memory management.
+
+6) What is the significance of the final keyword in Java?
+
+7)Can a final method be overridden in a subclass?How does the final keyword affect variables, methods, and classes in Java?
+
+8) What does the this keyword represent in Java?How is the this keyword used in constructors and methods?
+
+
+9)  What are narrowing and widening conversions in Java?
+
+10) Provide examples of narrowing and widening conversions between primitive data types.
+
+11) How does Java handle potential loss of precision during narrowing conversions?
+
+12) Explain the concept of automatic widening conversion in Java.
+
+13) What are the implications of narrowing and widening conversions on type compatibility and data loss?
+
+
+
+
+
